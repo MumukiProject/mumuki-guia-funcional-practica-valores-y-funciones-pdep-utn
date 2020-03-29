@@ -1,0 +1,1 @@
+¡Ojo! `rem` sólo nos dice el resto de dividir dos números, pero para saber si esos dos números son multiplos, tenemos que averiguar si ese resto **es cero**.

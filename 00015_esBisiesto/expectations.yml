@@ -1,0 +1,20 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: esBisiesto
+  inspection: HasBinding
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: esBisiesto
+  inspection: HasUsage:esMultiploDe
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: esMultiploDe
+  inspection: Not:HasBinding
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: esBisiesto
+  inspection: Not:HasConditional
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: esBisiesto
+  inspection: Not:HasUsage:mod
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: esBisiesto
+  inspection: Not:HasUsage:rem

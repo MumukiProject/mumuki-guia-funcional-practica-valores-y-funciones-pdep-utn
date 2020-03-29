@@ -1,0 +1,25 @@
+---
+name: Práctica Valores y Funciones
+locale: es
+type: practice
+beta: false
+language: haskell
+id_format: "%05d"
+order:
+- 201
+- 202
+- 203
+- 205
+- 204
+- 11
+- 12
+- 14
+- 206
+- 15
+- 16
+- 17
+- 18
+- 110
+- 113
+- 111
+private: false

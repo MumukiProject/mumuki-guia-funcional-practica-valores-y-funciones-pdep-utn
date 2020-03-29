@@ -1,0 +1,2 @@
+- Recordá lo que hacía la función `head` :wink:.
+- Para saber si dos cosas son iguales existe el operador `==`.
